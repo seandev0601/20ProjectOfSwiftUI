@@ -19,6 +19,7 @@ To track my progress through the 20ProjectOfSwiftUI challenge, I will update the
 
 | Project | Topic | Key Point |
 | --- | --- | --- | 
+| [01](MealExpenses) | MealExpenses | TextField、Picker、Section |
 
 
 Each project's folder will contain the completed code and any relevant resources for that specific topic.
